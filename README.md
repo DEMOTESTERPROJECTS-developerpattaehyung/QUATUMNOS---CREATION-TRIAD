@@ -1,4 +1,5 @@
 # QUATUMN    OS — Creation-Triad
+![Uploading image.png…]()
 
 > **Status:** 🚧 Research prototype | Experimental OS-inspired framework for hybrid classical–quantum computing
 
