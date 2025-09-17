@@ -1,5 +1,8 @@
 # QUATUMN    OS — Creation-Triad
-![Uploading image.png…]()
+
+# QuantumN OS
+
+![QuantumN OS Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/A_digital_screenshot_of_QuantumN.png)
 
 > **Status:** 🚧 Research prototype | Experimental OS-inspired framework for hybrid classical–quantum computing
 
