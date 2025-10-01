@@ -2,7 +2,7 @@
 
 # QuantumN OS
 
-![QuantumN OS Screenshot](![Uploading ISO.png…]()
+![QuantumN OS Screenshot]
 
 
 > **Status:** 🚧 Research prototype | Experimental OS-inspired framework for hybrid classical–quantum computing
