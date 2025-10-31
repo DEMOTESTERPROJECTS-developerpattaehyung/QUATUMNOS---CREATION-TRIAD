@@ -184,4 +184,4 @@ Licensed under **Business Source License (BSL-1.0)**. See [LICENSE](./LICENSE).
 
 ---
 
-✨ *QUATUMNOS — Towards the future of OS-level quantum orchestration* ✨
+✨ *QUATUMNOS — Towards the future of OS-level quantum orchestration* ✨  Ok we  will work it out
